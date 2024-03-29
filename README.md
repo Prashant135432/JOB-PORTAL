@@ -1,14 +1,19 @@
 # JOB-PORTAL
-
+Pentaomnia has organised a hacthon 
 Overview
 The Job Portable Project is a versatile job orchestration system aimed at simplifying task scheduling and execution across diverse computing infrastructures. It offers a unified interface for managing jobs efficiently, adaptable to various deployment environments including standalone machines, clusters, and cloud platforms.
 
 Features
 Portability: Designed for seamless operation across heterogeneous computing environments, enabling consistent job execution experiences.
+
 Task Management: Streamlined creation, scheduling, and administration of tasks with minimal configuration overhead.
+
 Resource Optimization: Dynamic resource allocation optimization to enhance performance and utilization efficiency.
+
 Fault Tolerance: Incorporates robust fault tolerance mechanisms ensuring job reliability and resilience against failures.
+
 Extensibility: Flexible architecture supporting modular plugin systems for tailored integrations and customizations.
+
 Installation
 To install Job Portable, clone the repository and follow the instructions outlined in the INSTALL.md file.
 
