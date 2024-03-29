@@ -9,7 +9,7 @@ Features
 
 Portability: Designed for seamless operation across heterogeneous computing environments, enabling consistent job execution experiences.
 
-Task Management: Streamlined creation, scheduling, and administration of tasks with minimal configuration overhead.
+Task Management: narrow creation, scheduling, and administration of tasks with minimal configuration overhead.
 
 Resource Optimization: Dynamic resource allocation optimization to enhance performance and utilization efficiency.
 
